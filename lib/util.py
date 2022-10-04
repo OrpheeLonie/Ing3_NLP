@@ -1,4 +1,5 @@
-"""TODO
+"""
+Utility function
 """
 
 from string import punctuation
