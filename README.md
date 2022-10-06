@@ -2,7 +2,13 @@
 
 ## Introduction
 
-TODO
+This project is composed of 3 labs, the purpose of the labs are to introduce fundamentals of NLP. Each questions of each labs are answered in the jupyter-notebook. Questions for lab 01 are in the begining of the file and, Question for lab 03 are answer in all the file and questions for lab 04 are answered in the file answers_lab04.ipynb. 
+
+There are 4 members in this group project : 
+- Emmanuel Mollard
+- Caroline Devaux
+- Marius Hurbin
+- Alexandre Poignant
 
 ## Architecture of the project
 
